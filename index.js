@@ -3,7 +3,7 @@
 
 const employee = {
     name:'rawan',
-    streetAddress:'Hadhramout - Al-Mukalla.'
+    major:'IT.'
 };
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
